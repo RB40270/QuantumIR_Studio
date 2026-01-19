@@ -1,0 +1,62 @@
+# QuantumIR Studio - Public Release
+# このリポジトリはバイナリ配布用です。ソースコードは非公開です。
+
+# Python source files - ソースコードを除外
+*.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# 開発ファイル
+*.spec
+build/
+*.egg-info/
+.pytest_cache/
+.vscode/
+.idea/
+
+# ビルド一時ファイル（distフォルダ内のexeは公開）
+# dist フォルダ内のexeファイルのみ含める
+!dist/*.exe
+
+# 設定ファイル（ユーザー環境依存）
+*.ini
+*.conf
+config/
+
+# ログファイル
+*.log
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ORCA計算ファイル（サイズが大きいため除外）
+*.out
+*.hess
+*.gbw
+*.xyz
+*.inp
+orca_outputs/
+orca_inputs/
+structures/
+
+# 一時ファイル
+*.tmp
+*.temp
+~$*
+
+# exeファイルは一時的に除外（GitHub Releasesで配布）
+dist/*.exe
+
+# 公開するファイル（明示的に許可）
+!README.md
+!LICENSE
+!examples/*.png
+!examples/*.jpg
+!examples/*.pdf
+!docs/*.md
+

@@ -1,0 +1,55 @@
+Academic Use License
+
+Copyright (c) 2026 Yuta Otsuka, Kagoshima University
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for **academic and research purposes only**, subject to the 
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Restrictions
+
+1. **Academic Use Only**: This software is licensed exclusively for academic, 
+   educational, and non-commercial research purposes.
+
+2. **Commercial Use Prohibited**: Any commercial use, including but not limited to:
+   - Use in commercial products or services
+   - Use for profit-generating activities
+   - Distribution as part of commercial software
+   is strictly prohibited without prior written permission.
+
+3. **Attribution Required**: Any publications, presentations, or derivative works 
+   must cite this software and provide appropriate credit to the author.
+
+For inquiries regarding commercial licensing or other uses, please contact:
+Yuta Otsuka, Kagoshima University
+
+## ORCA License
+
+This software requires ORCA (https://orcaforum.kofo.mpg.de/), which is 
+distributed under its own license terms. ORCA is free for academic use but 
+requires a separate license for commercial use. Please refer to the ORCA 
+website for licensing details.
+
+## Third-Party Software
+
+This software uses the following third-party libraries:
+- RDKit: BSD License
+- PyQt5: GPL / Commercial License
+- NumPy, Pandas, scikit-learn, Matplotlib: BSD License
+- SciPy: BSD License
+
+Please refer to each library's license for full terms.
+
