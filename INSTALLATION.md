@@ -79,7 +79,7 @@ C:\ORCA_6.1.1\
 
 ### ステップ1: ダウンロード
 
-1. [QuantumIR Studio GitHub Releases](https://github.com/YOUR_USERNAME/QuantumIR-Studio/releases)にアクセス
+1. [QuantumIR Studio GitHub Releases](https://github.com/RB40270/QuantumIR_Studio/releases)にアクセス
 2. 最新版の `QuantumIR_Studio_v2.exe` をダウンロード（約200-300 MB）
 
 ### ステップ2: セキュリティ警告の解除（必要な場合）
@@ -282,7 +282,7 @@ SMILESの記法を確認：
 ### 問い合わせ先
 
 - **開発者**: Yuta Otsuka, Kagoshima University
-- **GitHub Issues**: [https://github.com/YOUR_USERNAME/QuantumIR-Studio/issues](https://github.com/YOUR_USERNAME/QuantumIR-Studio/issues)
+- **GitHub Issues**: [https://github.com/RB40270/QuantumIR_Studio/issues](https://github.com/RB40270/QuantumIR_Studio/issues)
 
 ### よくある質問（FAQ）
 

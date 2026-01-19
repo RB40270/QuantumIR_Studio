@@ -86,6 +86,6 @@ All notable changes to QuantumIR Studio will be documented in this file.
 
 ## Support
 
-- GitHub Issues: https://github.com/YOUR_USERNAME/QuantumIR-Studio/issues
+- GitHub Issues: https://github.com/RB40270/QuantumIR_Studio/issues
 - Developer: Yuta Otsuka, Kagoshima University
 

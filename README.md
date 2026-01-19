@@ -304,7 +304,7 @@ Copyright (c) 2026 Yuta Otsuka, Kagoshima University
   institution={Kagoshima University},
   year={2026},
   version={2.0},
-  url={https://github.com/YOUR_USERNAME/QuantumIR-Studio}
+  url={https://github.com/RB40270/QuantumIR_Studio}
 }
 ```
 
@@ -330,10 +330,10 @@ Copyright (c) 2026 Yuta Otsuka, Kagoshima University
 ### 問い合わせ先
 - **開発者**: Yuta Otsuka
 - **所属**: Kagoshima University
-- **GitHub Issues**: [GitHub Repository](https://github.com/YOUR_USERNAME/QuantumIR-Studio/issues)
+- **GitHub Issues**: [GitHub Repository](https://github.com/RB40270/QuantumIR_Studio/issues)
 
 ### よくある質問
-- [FAQ Wiki](https://github.com/YOUR_USERNAME/QuantumIR-Studio/wiki/FAQ)
+- [FAQ Wiki](https://github.com/RB40270/QuantumIR_Studio/wiki/FAQ)
 
 ---
 
