@@ -366,8 +366,6 @@ Copyright (c) 2026 Yuta Otsuka, Kagoshima University
 
 **Developed by Yuta Otsuka, Kagoshima University**
 
-**Made with ❤️ for Polymer Science**
-
 ---
 
 ## サンプルデータ
